@@ -1,4 +1,4 @@
-# ExactSpace DevOps Assignment 🚀
+# ExactSpace DevOps Assignment 
 
 This is a multi-stage Dockerized web scraping project that uses **Node.js with Puppeteer** for scraping and **Python Flask** for serving the data via a REST API.
 
